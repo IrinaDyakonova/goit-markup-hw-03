@@ -249,6 +249,9 @@ a {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+}
+
+.container-flex {
   display: flex;
 }
 
