@@ -49,6 +49,7 @@ body {
 
 .header-address {
   font-style: normal;
+  margin-left: auto;
 }
 
 .header-address-li {
@@ -67,6 +68,7 @@ body {
 .setting-section-one {
   background-color: #2e2f42;
   padding: 188px 0;
+  width: 1158px;
 }
 
 .setting-section-one-title {
@@ -79,6 +81,8 @@ body {
   line-height: 1.07;
   letter-spacing: 1.12px;
   max-width: 496px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .setting-section-one-button {
@@ -95,6 +99,9 @@ body {
   height: 56px;
   border: none;
   border-radius: 4px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .setting-section-one-button:hover,
@@ -264,7 +271,7 @@ img {
 
 .header-style {
   display: flex;
-  width: 1440px;
+  width: 1158px;
   height: 72px;
   justify-content: center;
   align-items: center;
