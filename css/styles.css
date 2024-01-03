@@ -216,6 +216,7 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
+  margin-bottom: 8px;
 }
 
 .setting-section-four-paragraph {
@@ -240,7 +241,8 @@ body {
 }
 
 .setting-section-foor-div {
-  padding: 32px 0;
+  padding: 32px 16px;
+  border: 1px solid var(--CORNFLOWER, #e7e9fc);
 }
 
 .setting-footer {
