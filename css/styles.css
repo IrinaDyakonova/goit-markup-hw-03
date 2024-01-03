@@ -13,6 +13,7 @@ body {
   letter-spacing: 0.54px;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .logo-studio {
@@ -34,7 +35,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.32px;
   color: #2e2f42;
-  padding: 24px 0;
+  /* padding: 24px 0; */
 }
 
 .header-nav-a {
@@ -242,6 +243,7 @@ a {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+  display: flex;
 }
 
 img {
@@ -261,10 +263,6 @@ img {
 .header-nav {
   display: flex;
   align-items: center;
-}
-
-.header-logo {
-  margin-right: 76px;
 }
 
 .header-menu {
