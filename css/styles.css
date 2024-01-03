@@ -238,6 +238,9 @@ a {
   padding-right: 0;
   margin-left: 0;
   margin-right: 0;
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 
 img {
@@ -257,7 +260,4 @@ img {
 .header-conteiner {
   display: flex;
   align-items: center;
-  width: 1158px;
-  margin: 0 auto;
-  padding: 0 15px;
 }
