@@ -154,6 +154,7 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
+  margin-bottom: 8px;
 }
 
 .setting-section-three-paragraph {
@@ -169,6 +170,7 @@ body {
 
 .setting-section-three-li {
   background-color: #ffffff;
+  width: calc((100% - 3 * 24px) / 4);
 }
 
 .setting-section-four {
