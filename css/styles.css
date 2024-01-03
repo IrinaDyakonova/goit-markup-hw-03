@@ -68,7 +68,6 @@ body {
 .setting-section-one {
   background-color: #2e2f42;
   padding: 188px 0;
-  width: 1158px;
 }
 
 .setting-section-one-title {
@@ -111,7 +110,6 @@ body {
 
 .setting-section-two {
   padding: 120px 0;
-  width: 1158px;
 }
 
 .setting-section-two-title {
@@ -263,7 +261,7 @@ a {
   padding-right: 0;
   margin-left: 0;
   margin-right: 0;
-  width: 1158px;
+  max-width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -278,7 +276,6 @@ img {
 
 .header-style {
   display: flex;
-  width: 1158px;
   height: 72px;
   justify-content: center;
   align-items: center;
