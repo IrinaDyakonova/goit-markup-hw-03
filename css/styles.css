@@ -246,10 +246,17 @@ img {
 
 .header-style {
   display: flex;
-  width: 1440px;
+  width: 1158px;
   height: 72px;
   justify-content: center;
   align-items: center;
   flex-shrink: 0;
   border-bottom: 1px solid var(--CORNFLOWER, #e7e9fc);
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.header-conteiner {
+  display: flex;
+  align-items: center;
 }
